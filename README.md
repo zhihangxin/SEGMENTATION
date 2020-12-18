@@ -9,7 +9,7 @@ loss data as shown below
 
 ![image](https://github.com/zhihangxin/SEGMENTATION/blob/main/image/loss.png)
 
-The following figure shows the real street view photos (left),mark (middle) and prediction results (right)
+The following figure shows the real street view photos (left),mask (middle) and prediction results (right)
 
 ![image](https://github.com/zhihangxin/SEGMENTATION/blob/main/image/pred.png)
 ![image](https://github.com/zhihangxin/SEGMENTATION/blob/main/image/pred2.png)
