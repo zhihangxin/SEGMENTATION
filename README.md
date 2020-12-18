@@ -6,4 +6,5 @@ input.shape:32X256X256X3
 The best accuracy of prediction on the test data set is around 85%
 
 loss data as shown below
+
 ![image](https://github.com/zhihangxin/SEGMENTATION/blob/main/image/loss.png)
