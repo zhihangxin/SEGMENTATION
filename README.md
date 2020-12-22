@@ -3,7 +3,7 @@ segmentation practice
 
 According to UNET network modeling
 
-perform image semantic segmentation on cityscapes dataset
+perform image semantic segmentation on cityscapes dataset(download from https://www.cityscapes-dataset.com/)
 
 input.shape:32 * 256 * 256 * 3
 
